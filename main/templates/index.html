@@ -1,0 +1,22 @@
+{% extends 'base.html'%}
+{% block content%}
+<div class="container">
+    <div class="row pt-5">
+        <div class=" col-md-2 "></div>
+        
+        <div class="col-md-8">
+                {% for web in webs %}
+            <img src="{{web.screenshot.url}}" alt=""width='98%' height="auto">
+            <div class="d-inline">
+                <p class="">{{web.owner.username}} </p>
+                <p><a href="{{web.web_url}} ">View site</a> </p>
+                <p><a href="{% url 'review'%}">Add review.</a></p>
+                <p>Reviews: {{web.reviews.score}} </p>
+                
+                {% endfor %}
+            </div>
+        </div>
+        <div class=" col-md-2 "></div>
+    </div>
+</div>
+{% endblock%}
