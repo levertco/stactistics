@@ -32,4 +32,3 @@ To use this application, you will need:
 - postgresql
 
 ### Clone the repo into your project folder.
-
