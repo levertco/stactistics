@@ -53,6 +53,7 @@ To use this application, you will need:
 No known bugs currently detected.
 
 ### License
+
 Copyright (c) 2019 **Levert Ouma**
 
 This project is licensed under the [MIT License](LICENSE).
