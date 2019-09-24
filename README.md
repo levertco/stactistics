@@ -10,3 +10,4 @@ This is a web application that allows the user everything happening in their res
 https://awwardslevert.herokuapp.com
 
 ## User Stories
+1. View posted projects and their details.
