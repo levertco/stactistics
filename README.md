@@ -34,7 +34,6 @@ To use this application, you will need:
 ### Clone the repo into your project folder.
 
 - `git clone https://github.com/levertco/stactistics.git`
-- `cd awards`
 
 ### Install the dependencies
 
