@@ -40,8 +40,7 @@ To use this application, you will need:
 
 - `pip install -r requirements.txt`
 
-### Create an .env file and replace my settings with your settings:
-
+### Create an .env file. 
 
 ### Make migrations to your database
 - `python3.6 manage.py migrate`
