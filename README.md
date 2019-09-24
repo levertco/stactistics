@@ -45,14 +45,3 @@ To use this application, you will need:
 ### Make migrations to your database
 - `python3.6 manage.py migrate`
 
-### Run `manage.py` in the terminal
-
-- `python3.6 manage.py runserver`
-
-### Known Bugs
-None at the moment
-
-### License
-Copyright (c) 2019 **Levert Ouma**
-
-This project is licensed under the [MIT License](LICENSE).
