@@ -26,3 +26,10 @@ https://awwardslevert.herokuapp.com
 - CSS
 
 ### Prerequisites
+To use this application, you will need:
+- python
+- django
+- postgresql
+
+### Clone the repo into your project folder.
+
