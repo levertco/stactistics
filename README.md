@@ -11,3 +11,4 @@ https://awwardslevert.herokuapp.com
 
 ## User Stories
 1. View posted projects and their details.
+2. Post a project to be rated/reviewed.
