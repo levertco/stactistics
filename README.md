@@ -19,3 +19,10 @@ https://awwardslevert.herokuapp.com
 
 
 ### Technologies Used
+
+- Django
+- Python3.6
+- HTML
+- CSS
+
+### Prerequisites
