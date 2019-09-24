@@ -51,3 +51,7 @@ To use this application, you will need:
 
 ### Known Bugs
 No known bugs currently detected.
+
+### License
+Copyright (c) 2019 **Levert Ouma**
+
